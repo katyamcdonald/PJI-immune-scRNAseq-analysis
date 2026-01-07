@@ -10,4 +10,4 @@ This repository contains code used to analyze single-cell RNA-seq data from mous
 Raw data generated for this project is available at GSE269658. Previously published human PJI data is available at GSE241739.
 
 # Reproducability
-Analysis was performed in R
+Analysis was performed in R (version 4.4.1) and Seurat (version 5.3.1)
